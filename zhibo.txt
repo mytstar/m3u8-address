@@ -1,0 +1,8 @@
+直播,#genre#
+中央一,http://183.207.248.11/PLTV/3/224/3221225530/index.m3u8
+北京,https://live.funhillrm.com/5/sd/live.m3u8
+凤凰资讯,http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+中央新闻,http://39.135.55.105:6610/PLTV/88888888/224/3221225817/index.m3u8
+CNN,https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
+BBC World News,http://vips-livecdn.fptplay.net/sdb/bbcnew_2000.stream/chunklist_b500000.m3u8
