@@ -387,7 +387,7 @@ http://117.148.129.93:80/PLTV/88888888/224/3221233350/1.m3u8
 http://39.135.138.60:18890/TVOD/88888910/224/3221226230/index.m3u8
 #EXTINF:-1 group-title="央视4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png",CCTV16 回看
 http://39.135.138.60:18890/TVOD/88888910/224/3221226233/index.m3u8
-#EXTINF:-1 group-title="央视4K", tvg-logo="https://epg.112114.xyz/logo/4KU.png" 4KUHD IPV9
+#EXTINF:-1 group-title="央视4K", tvg-logo="https://epg.112114.xyz/logo/4KU.png",4KUHD IPV9
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225786/2/index.m3u8
 
 #EXTINF:-1 group-title="央视50帧",tvg-logo="https://www.hualigs.cn/image/6153c68d2b19b.jpg",CCTV1 50FPS
@@ -521,9 +521,9 @@ https://livees.cgtn.com/1000e/prog_index.m3u8
 https://livefr.cgtn.com/1000f/prog_index.m3u8
 #EXTINF:-1 group-title="央视其他",CCTV阿语频道
 https://livear.cgtn.com/1000a/prog_index.m3u8
-#EXTINF:-1 group-title="央视其他", tvg-logo="https://epg.112114.xyz/logo/CGTN英语.png" CGTN英语
+#EXTINF:-1 group-title="央视其他", tvg-logo="https://epg.112114.xyz/logo/CGTN英语.png",CGTN英语
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225747/2/index.m3u8
-#EXTINF:-1 group-title="央视其他", tvg-logo="https://epg.112114.xyz/logo/CGTN记录.png" CGTN记录
+#EXTINF:-1 group-title="央视其他", tvg-logo="https://epg.112114.xyz/logo/CGTN记录.png",CGTN记录
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225645/2/index.m3u8
 #EXTINF:-1 group-title="央视其他",tvg-logo="http://static.epg.best/au/CGTN.au.png",CGTN(中国)
 https://live.cgtn.com/1000/prog_index.m3u8
@@ -537,13 +537,13 @@ http://livefr.cgtn.com/1000f/prog_index.m3u8
 http://livedoc.cgtn.com/1000d/prog_index.m3u8
 #EXTINF:-1 group-title="央视其他",CGTN Русский
 http://liveru.cgtn.com/1000r/prog_index.m3u8
-#EXTINF:-1 group-title="央视其他", tvg-logo="https://epg.112114.xyz/logo/CETV1.png" CETV1
+#EXTINF:-1 group-title="央视其他", tvg-logo="https://epg.112114.xyz/logo/CETV1.png",CETV1
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225917/2/index.m3u8
-#EXTINF:-1 group-title="央视其他", tvg-logo="https://epg.112114.xyz/logo/CETV4.png" CETV4
+#EXTINF:-1 group-title="央视其他", tvg-logo="https://epg.112114.xyz/logo/CETV4.png",CETV4
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225937/2/index.m3u8
-#EXTINF:-1 group-title="央视其他", tvg-logo="https://epg.112114.xyz/logo/CETV4.png" CETV4
+#EXTINF:-1 group-title="央视其他", tvg-logo="https://epg.112114.xyz/logo/CETV4.png",CETV4
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225969/2/index.m3u8
-#EXTINF:-1 group-title="央视其他", tvg-logo="https://epg.112114.xyz/logo/CNC英文.png" CNC英文
+#EXTINF:-1 group-title="央视其他", tvg-logo="https://epg.112114.xyz/logo/CNC英文.png",CNC英文
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225693/2/index.m3u8
-#EXTINF:-1 group-title="央视其他", tvg-logo="https://epg.112114.xyz/logo/CNC中文.png" CNC中文
+#EXTINF:-1 group-title="央视其他", tvg-logo="https://epg.112114.xyz/logo/CNC中文.png",CNC中文
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225694/2/index.m3u8
