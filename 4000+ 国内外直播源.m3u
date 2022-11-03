@@ -430,7 +430,7 @@ http://49.7.234.13:808/hls/183/index.m3u8
 #EXTINF:-1 tvg-name="CCTV12" group-title="央视", CCTV12
 http://49.7.234.13:808/hls/6/index.m3u8
 #EXTINF:-1 tvg-name="CCTV13" group-title="央视", CCTV13
-http://49.7.234.13:808/hls/155/index.m3u8
+https://cctvwbndks.v.kcdnvip.com/cctvwbnd/cctv13_2/index.m3u8
 #EXTINF:-1 tvg-name="CCTV15" group-title="央视", CCTV15
 http://49.7.234.13:808/hls/175/index.m3u8
 #EXTINF:-1 tvg-name="CCTV17" group-title="央视", CCTV17
