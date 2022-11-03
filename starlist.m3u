@@ -31,7 +31,7 @@ http://111.20.33.70/PLTV/88888893/224/3221226240/index.m3u8
 #EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://epg.112114.xyz/logo/CCTV12.png" group-title="央视",CCTV12
 http://111.20.33.70/PLTV/88888893/224/3221226190/index.m3u8
 #EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://epg.112114.xyz/logo/CCTV13.png" group-title="央视",CCTV13
-http://111.20.33.70/PLTV/88888893/224/3221226233/index.m3u8
+https://cctvwbndks.v.kcdnvip.com/cctvwbnd/cctv13_2/index.m3u8
 #EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://epg.112114.xyz/logo/CCTV14.png" group-title="央视",CCTV14
 http://39.135.138.59:18890/TVOD/88888910/224/3221225639/index.m3u8
 #EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://epg.112114.xyz/logo/CCTV15.png" group-title="央视",CCTV15
