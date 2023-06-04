@@ -1,38 +1,48 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="未分类",CCTV新闻
+#EXTINF:-1 group-title="大陆",CCTV新闻
 https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
-#EXTINF:-1 group-title="未分类",凤凰资讯台
+#EXTINF:-1 group-title="大陆",CCTV新闻
+https://cctvwbndks.v.kcdnvip.com/cctvwbnd/cctv13_2/index.m3u8
+#EXTINF:-1 group-title="大陆",北京新闻
+https://live.funhillrm.com/5/sd/live.m3u8
+
+#EXTINF:-1 group-title="港澳",凤凰资讯台
 https://pull-l3-cny.douyincdn.com/live/YesLiveTV-63134406-69d7-436b-986a-9bd696d4e2cb.m3u8
-#EXTINF:-1 group-title="未分类",J2
+#EXTINF:-1 group-title="港澳",J2
 https://dispatch.ulivetv.net/v/live/ccns1caueri8.m3u8?stream_id=ccns1caueri8&amp;timestamp=1685543176&amp;rand=r9HIWoupjm&amp;uuid=9b647b3816b2a66a&amp;from=web&amp;sign=3efd57312a760391be83e0af24ebba8f
-#EXTINF:-1 group-title="未分类",翡翠
+#EXTINF:-1 group-title="港澳",翡翠
 https://dispatch.ulivetv.net/v/live/ccns0yuvkzpc.m3u8?stream_id=ccns0yuvkzpc&amp;timestamp=1685534884&amp;rand=aZzeQdebXK&amp;uuid=9b647b3816b2a66a&amp;from=web&amp;sign=cafb69416bb58f81cb0e1812aa67bc4a
-#EXTINF:-1 group-title="未分类",無線新聞台
+#EXTINF:-1 group-title="港澳",無線新聞台
 https://dispatch.ulivetv.net/v/live/ccns1uzk2bwg.m3u8?stream_id=ccns1uzk2bwg&amp;timestamp=1685543750&amp;rand=60cfCwOlu9&amp;uuid=9b647b3816b2a66a&amp;from=web&amp;sign=781dc0a4d26611f7f71f3c464a6899b3
-#EXTINF:-1 group-title="未分类",明珠台
+#EXTINF:-1 group-title="港澳",明珠台
 https://dispatch.ulivetv.net/v/live/ccns2cw1d7ls.m3u8?stream_id=ccns2cw1d7ls&amp;timestamp=1685544367&amp;rand=0xwcyrWUTi&amp;uuid=9b647b3816b2a66a&amp;from=web&amp;sign=b2cfd9d2cc41ef730819b85e24a0083c
-#EXTINF:-1 group-title="未分类",RTHK31
+#EXTINF:-1 group-title="港澳",RTHK31
 https://dispatch.ulivetv.net/v/live/ccnfegd7luio.m3u8?stream_id=ccnfegd7luio&amp;timestamp=1685545496&amp;rand=z2S0yqwh3g&amp;uuid=9b647b3816b2a66a&amp;from=web&amp;sign=78e17f19655232a91acbc9a8e2bf45b5
-#EXTINF:-1 group-title="未分类",ViuTV
+#EXTINF:-1 group-title="港澳",ViuTV
 https://dispatch.ulivetv.net/v/live/ccnuwp0ol8zk.m3u8?stream_id=ccnuwp0ol8zk&amp;timestamp=1685545781&amp;rand=6qhbs6wMTD&amp;uuid=9b647b3816b2a66a&amp;from=web&amp;sign=88dff7328f1b2324c14a1ebcb5f89ce4
-#EXTINF:-1 group-title="未分类",東森財經新聞
+#EXTINF:-1 group-title="港澳",東森財經新聞
 https://everydaytv.top/live/youtube/971361e3741927e94a4b31797c1839e4/playlist.m3u8
-#EXTINF:-1 group-title="未分类",東森新聞
+#EXTINF:-1 group-title="港澳",東森新聞
 https://everydaytv.top/live/youtube/44f0a706e86a999aa2716e24953a4834/playlist.m3u8
-#EXTINF:-1 group-title="未分类",寰宇新聞台
+#EXTINF:-1 group-title="港澳",寰宇新聞台
 https://everydaytv.top/live/faintv/326dae9324cdb5fbda73be6f8d981975/playlist.m3u8
-#EXTINF:-1 group-title="未分类",民視新聞台
+#EXTINF:-1 group-title="港澳",民視新聞台
 https://everydaytv.top/live/faintv/01af5039a9bc9a758316e576ecbc1369/playlist.m3u8
-#EXTINF:-1 group-title="未分类",三立iNEWS
+#EXTINF:-1 group-title="港澳",三立iNEWS
 https://everydaytv.top/live/youtube/48d777982511681b6543d17488130644/playlist.m3u8
-#EXTINF:-1 group-title="未分类",台視新聞
+#EXTINF:-1 group-title="港澳",台視新聞
 https://everydaytv.top/live/youtube/51ece445ed32514e14aaa20124cdf6ce/playlist.m3u8
-#EXTINF:-1 group-title="未分类",TVBS
+#EXTINF:-1 group-title="港澳",TVBS
 https://everydaytv.top/live/youtube/364974c8fe73d99f33860d314d9e2020/playlist.m3u8
-#EXTINF:-1 group-title="未分类",TVBS新聞台
+#EXTINF:-1 group-title="港澳",TVBS新聞台
 https://everydaytv.top/live/youtube/0e46bf767182466ff5f504bf78d8d4dc/playlist.m3u8
-#EXTINF:-1 group-title="未分类",中視新聞
+#EXTINF:-1 group-title="港澳",中視新聞
 https://everydaytv.top/live/youtube/c2dcfdb6f087609d9bf9abee815491d3/playlist.m3u8
-#EXTINF:-1 group-title="未分类",中天新聞
+#EXTINF:-1 group-title="港澳",中天新聞
 https://everydaytv.top/live/youtube/fd1f715411eed110d07470b3cbddb43d/playlist.m3u8
+
+#EXTINF:-1 group-title="国外",ABC新闻直播
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index_45.m3u8
+#EXTINF:-1 group-title="国外",半岛电视台
+https://live-hls-web-aje.getaj.net/AJE/03.m3u8
