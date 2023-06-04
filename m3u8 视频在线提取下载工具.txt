@@ -1,0 +1,7 @@
+m3u8 视频在线提取下载工具
+
+Mac用户：media-downloader-setup-2.0.0-beta.4.dmg
+
+Windows用户：media-downloader-setup-2.0.0-beta.4.exe
+
+GitHub地址：https://github.com/caorushizi/m3u8-downloader
