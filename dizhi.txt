@@ -1,6 +1,6 @@
-ÍøÂç
+ç½‘ç»œ
 https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/bestv.m3u
-¾°Çø
+æ™¯åŒº
 https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/%E5%85%A8%E5%9B%BD%E6%99%AF%E5%8C%BA%E6%BA%90.m3u8
 OWEN TV
 https://jihulab.com/owen2000wy/owentv/-/raw/main/HP20230319.txt
