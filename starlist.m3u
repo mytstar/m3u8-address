@@ -3,8 +3,6 @@
 #EXTINF:-1 group-title="大陆",CCTV新闻1
 https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
 #EXTINF:-1 group-title="大陆",CCTV新闻2
-https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
-#EXTINF:-1 group-title="大陆",CCTV新闻3
 https://cctvwbndks.v.kcdnvip.com/cctvwbnd/cctv13_2/index.m3u8
 #EXTINF:-1 group-title="大陆",北京新闻
 https://live.funhillrm.com/5/sd/live.m3u8
