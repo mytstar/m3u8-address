@@ -21,11 +21,11 @@ https://pull-l3-cny.douyincdn.com/live/72aca5dbd3dbbb1ef9a95322c4eb085c.m3u8
 https://pull-l3-cny.douyincdn.com/live/4017f50fb8cb219f045a41cb7eef8cec.m3u8
 #EXTINF:-1 group-title="港澳",RTHK31
 https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/stream1/streamPlaylist.m3u8
-
-#EXTINF:-1 group-title="港澳",ViuTV
+#EXTINF:-1 group-title="港澳",ViuTV*
 https://dispatch.ulivetv.net/v/live/ccnuwp0ol8zk.m3u8?stream_id=ccnuwp0ol8zk&amp;timestamp=1685545781&amp;rand=6qhbs6wMTD&amp;uuid=9b647b3816b2a66a&amp;from=web&amp;sign=88dff7328f1b2324c14a1ebcb5f89ce4
 #EXTINF:-1 group-title="港澳",東森財經新聞
-https://everydaytv.top/live/youtube/971361e3741927e94a4b31797c1839e4/playlist.m3u8
+https://pull-l3-cny.douyincdn.com/live/9ed40034f077a89f2581096db4400102.m3u8
+
 #EXTINF:-1 group-title="港澳",東森新聞
 https://everydaytv.top/live/youtube/44f0a706e86a999aa2716e24953a4834/playlist.m3u8
 #EXTINF:-1 group-title="港澳",寰宇新聞台
