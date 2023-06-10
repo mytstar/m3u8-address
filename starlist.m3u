@@ -18,6 +18,8 @@ https://dispatch.ulivetv.net/v/live/ccns1uzk2bwg.m3u8?stream_id=ccns1uzk2bwg&amp
 #EXTINF:-1 group-title="港澳",明珠台
 https://pull-l3-cny.douyincdn.com/live/72aca5dbd3dbbb1ef9a95322c4eb085c.m3u8
 
+#EXTINF:-1 group-title="港澳",美亞電影台
+https://pull-l3-cny.douyincdn.com/live/4017f50fb8cb219f045a41cb7eef8cec.m3u8
 #EXTINF:-1 group-title="港澳",RTHK31
 https://dispatch.ulivetv.net/v/live/ccnfegd7luio.m3u8?stream_id=ccnfegd7luio&amp;timestamp=1685545496&amp;rand=z2S0yqwh3g&amp;uuid=9b647b3816b2a66a&amp;from=web&amp;sign=78e17f19655232a91acbc9a8e2bf45b5
 #EXTINF:-1 group-title="港澳",ViuTV
