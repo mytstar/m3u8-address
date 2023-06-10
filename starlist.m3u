@@ -11,6 +11,8 @@ https://live.funhillrm.com/5/sd/live.m3u8
 https://pull-l3-cny.douyincdn.com/live/YesLiveTV-63134406-69d7-436b-986a-9bd696d4e2cb.m3u8
 #EXTINF:-1 group-title="港澳",J2
 https://dispatch.ulivetv.net/v/live/ccns1caueri8.m3u8?stream_id=ccns1caueri8&amp;timestamp=1685543176&amp;rand=r9HIWoupjm&amp;uuid=9b647b3816b2a66a&amp;from=web&amp;sign=3efd57312a760391be83e0af24ebba8f
+#EXTINF:-1 group-title="港澳",翡翠1
+https://pull-l3-cny.douyincdn.com/live/ac0cd4e858dc8f4178ccb86647d0b356.m3u8
 #EXTINF:-1 group-title="港澳",翡翠
 https://dispatch.ulivetv.net/v/live/ccns0yuvkzpc.m3u8?stream_id=ccns0yuvkzpc&amp;timestamp=1685534884&amp;rand=aZzeQdebXK&amp;uuid=9b647b3816b2a66a&amp;from=web&amp;sign=cafb69416bb58f81cb0e1812aa67bc4a
 #EXTINF:-1 group-title="港澳",無線新聞台
