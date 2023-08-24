@@ -1,9 +1,10 @@
 网络
 https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/bestv.m3u
+https://jihulab.com/owen2000wy/owentv/-/raw/main/HP20230319.m3u
+
 景区
 https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/%E5%85%A8%E5%9B%BD%E6%99%AF%E5%8C%BA%E6%BA%90.m3u8
-OWEN TV
-https://jihulab.com/owen2000wy/owentv/-/raw/main/HP20230319.txt
-https://jihulab.com/owen2000wy/owentv/-/raw/main/OwenTV.json
-https://jihulab.com/owen2000wy/owentv/-/raw/main/OwenTV2.json
-https://jihulab.com/owen2000wy/owentv/-/raw/main/HP20230319.m3u
+
+十九岁：
+https://files.catbox.moe/pffw1w.m3u
+https://ghproxy.com/https://raw.githubusercontent.com/YanG-1989/m3u/main/Adult.m3u
