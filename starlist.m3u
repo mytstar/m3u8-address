@@ -49,3 +49,8 @@ https://everydaytv.top/live/youtube/fd1f715411eed110d07470b3cbddb43d/playlist.m3
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index_45.m3u8
 #EXTINF:-1 group-title="国外",半岛电视台
 https://live-hls-web-aje.getaj.net/AJE/03.m3u8
+
+#EXTINF:-1 group-title="广播",VOA美国之音
+https://n0e.radiojar.com/7thwu53r92quv?rj-ttl=5&rj-tok=AAABiibHm1UAsO2Tu-PLUV5v9Q
+#EXTINF:-1 group-title="广播",法广新闻
+http://185.74.70.29/rfichinois-96k.mp3
