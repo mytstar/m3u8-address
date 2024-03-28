@@ -2,6 +2,7 @@
 
 我的
 https://raw.githubusercontent.com/mytstar/m3u8-address/master/starlist.m3u
+https://raw.githubusercontent.com/mytstar/m3u8-address/master/ziyong.m3u
 
 澳门
 https://raw.githubusercontent.com/mytstar/m3u8-address/master/aomen.m3u
