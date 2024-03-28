@@ -3,24 +3,28 @@
 
 我的：
 https://raw.githubusercontent.com/mytstar/m3u8-address/master/starlist.m3u
+代理地址：https://mirror.ghproxy.com/
 https://raw.githubusercontent.com/mytstar/m3u8-address/master/ziyong.m3u
+代理地址：https://mirror.ghproxy.com/
 
 
 澳门：
 https://raw.githubusercontent.com/mytstar/m3u8-address/master/aomen.m3u
+代理地址：https://mirror.ghproxy.com/
 
 
 景区：
 https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/%E5%85%A8%E5%9B%BD%E6%99%AF%E5%8C%BA%E6%BA%90.m3u8
+代理地址：https://mirror.ghproxy.com/
 
 
 APTV官方：
 https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u
-
+代理地址：https://mirror.ghproxy.com/
 
 ashsteins的项目：https://github.com/ashsteins/wuwurpg
 
-源地址：https://mirror.ghproxy.com/https://raw.githubusercontent.com/ashsteins/wuwurpg/main/ziyong.txt
+代理源地址：https://mirror.ghproxy.com/https://raw.githubusercontent.com/ashsteins/wuwurpg/main/ziyong.txt
 
 
 港台IPTV：
