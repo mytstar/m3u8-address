@@ -12,7 +12,7 @@ https://raw.githubusercontent.com/mytstar/m3u8-address/master/ziyong.m3u
 代理地址：https://mirror.ghproxy.com/https://raw.githubusercontent.com/mytstar/m3u8-address/master/ziyong.m3u
 
 
-澳门：
+澳门卫视：
 https://raw.githubusercontent.com/mytstar/m3u8-address/master/aomen.m3u
 
 代理地址：https://mirror.ghproxy.com/https://raw.githubusercontent.com/mytstar/m3u8-address/master/aomen.m3u
