@@ -7,7 +7,7 @@ https://raw.githubusercontent.com/mytstar/m3u8-address/master/starlist.m3u
 代理地址：https://mirror.ghproxy.com/https://raw.githubusercontent.com/mytstar/m3u8-address/master/starlist.m3u
 
 wuwurpg的：
-
+ashsteins的项目：https://github.com/ashsteins/wuwurpg
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/ashsteins/wuwurpg/main/ziyong.txt
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/ashsteins/wuwurpg/main/yiguoduan.txt
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/ashsteins/wuwurpg/main/yehuozhibo.txt
@@ -28,11 +28,6 @@ APTV官方：
 https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u
 
 代理地址：https://mirror.ghproxy.com/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u
-
-ashsteins的项目：https://github.com/ashsteins/wuwurpg
-
-代理源地址：https://mirror.ghproxy.com/https://raw.githubusercontent.com/ashsteins/wuwurpg/main/ziyong.txt
-
 
 港台IPTV：
 https://www.stream-link.org/stream-link.m3u
