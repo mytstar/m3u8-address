@@ -16,7 +16,7 @@ https://mirror.ghproxy.com/https://raw.githubusercontent.com/ashsteins/wuwurpg/m
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/ashsteins/wuwurpg/main/yiguoduan.txt
 
 呜呜 4:
-https://mirror.ghproxy.com/https://raw.githubusercontent.com/ashsteins/wuwurpg/main/yehuozhibo.txt
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/ashsteins/wuwurpg/main/yimeng.txt
 
 澳门卫视：
 https://raw.githubusercontent.com/mytstar/m3u8-address/master/aomen.m3u
