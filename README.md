@@ -1,7 +1,6 @@
 一些自用的m3u8地址，如果地址无法更新请在地址前面加上GitHub代理加速，格式如下：https://mirror.ghproxy.com/https://raw.githubusercontent.com/mytstar/m3u8-address/master/starlist.m3u
 
-
-我的1：
+我的GitHub：
 https://raw.githubusercontent.com/mytstar/m3u8-address/master/starlist.m3u
 
 代理地址：https://mirror.ghproxy.com/https://raw.githubusercontent.com/mytstar/m3u8-address/master/starlist.m3u
@@ -15,7 +14,7 @@ https://mirror.ghproxy.com/https://raw.githubusercontent.com/ashsteins/wuwurpg/m
 呜呜 2:
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/ashsteins/wuwurpg/main/yiguoduan.txt
 
-呜呜 4:
+呜呜 3:
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/ashsteins/wuwurpg/main/yimeng.txt
 
 澳门卫视：
