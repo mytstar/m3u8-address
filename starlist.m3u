@@ -1,12 +1,124 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="优选",CCTV-13新闻
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
+#EXTINF:-1 group-title="优选",CCTV-13新闻
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226011/index.m3u8
+#EXTINF:-1 group-title="优选",CCTV13
+http://gxft.7766.org:9901/tsfile/live/0013_1.m3u8?key=txiptv&url=tvzb.com
+#EXTINF:-1 group-title="优选",凤凰资讯
+http://112.19.171.156:9999/udp/239.93.0.118:2191
+#EXTINF:-1 group-title="优选",CCTV-1综合
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226419/index.m3u8
+#EXTINF:-1 group-title="优选",CCTV-9纪录
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
+#EXTINF:-1 group-title="优选",CCTV9
+http://gxft.7766.org:9901/tsfile/live/0009_1.m3u8?key=txiptv&url=tvzb.com
+#EXTINF:-1 group-title="优选",CCTV-10科教
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8
+#EXTINF:-1 group-title="优选",CCTV10
+http://gxft.7766.org:9901/tsfile/live/0010_1.m3u8?key=txiptv&url=tvzb.com
+#EXTINF:-1 group-title="优选",昌黎综合
+https://jwliveqxzb.hebyun.com.cn/clzhpd/clzhpd.m3u8?zhebd
+#EXTINF:-1 group-title="优选",昌黎综合
+https://jwcdnqx.hebyun.com.cn/live/clzhpd/1500k/tzwj_video.m3u8?zhebd
+#EXTINF:-1 group-title="优选",黑龙江新闻
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226330/index.m3u8
+#EXTINF:-1 group-title="优选",哈尔滨新闻综合
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226434/index.m3u8
+#EXTINF:-1 group-title="优选",哈尔滨生活
+https://stream.hrbtv.net/shpd/sd/live.m3u8
+#EXTINF:-1 group-title="优选",哈尔滨生活
+http://stream.hrbtv.net/shpd/sd/live.m3u8?zheild
+#EXTINF:-1 group-title="优选",哈尔滨新闻综合
+http://stream.hrbtv.net/xwzh/sd/live.m3u8?zheild
+#EXTINF:-1 group-title="优选",黑龙江新闻法治
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226330/index.m3u8
+#EXTINF:-1 group-title="优选",东森新闻美洲台
+http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
+#EXTINF:-1 group-title="优选",民视新闻台
+http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
+#EXTINF:-1 group-title="优选",民視新聞 HD
+http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
+#EXTINF:-1 group-title="优选",台视新闻
+http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8?blog.ntnas.top
+#EXTINF:-1 group-title="优选",东森新闻
+http://50.7.238.114:8278/ettvnews/playlist.m3u8?tid=MC4C3328955833289558&ct=19249&tsum=d68431432600bbf503d95f629f3acc11
+#EXTINF:-1 group-title="优选",台視新聞 HD
+http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
+#EXTINF:-1 group-title="优选",亚洲新闻
+http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+#EXTINF:-1 group-title="优选",亚洲新闻
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1 group-title="优选",半岛新闻
+https://live-hls-web-aje.getaj.net/AJE/02.m3u8
+#EXTINF:-1 group-title="优选",台視新聞 HD
+http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
+#EXTINF:-1 group-title="优选",台視新聞
+https://epg.pw/stream/6ffb325e878b6ae255f12f6f11aef268b32db0d6b8b43c53fa0041975274cba5.m3u8
+#EXTINF:-1 group-title="优选",民视新闻
+http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8
+#EXTINF:-1 group-title="优选",台視新聞
+https://epg.pw/stream/d388b721bbe24174167197bd8df71614187bcb174879a301f1bc24ff2d8d6136.m3u8
+#EXTINF:-1 group-title="优选",台視新聞
+https://epg.pw/stream/96afb8d6fa20bb65a774f91d5caa60abc507e35ade518c7992f5f652cadd0914.m3u8
+#EXTINF:-1 group-title="优选",4k??修复
+http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
+#EXTINF:-1 group-title="优选",新加坡中文台
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
+#EXTINF:-1 group-title="优选",半岛新闻
+http://live-hls-web-aja.getaj.net/AJA/02.m3u8
+#EXTINF:-1 group-title="优选",台視新聞 HD
+http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
+#EXTINF:-1 group-title="优选",民视新闻
+http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
+#EXTINF:-1 group-title="优选",半岛新闻
+http://live-hls-web-aje.getaj.net/AJE/01.m3u8
+#EXTINF:-1 group-title="优选",民视新闻 hd
+https://epg.pw/stream/c8bfbc31e5af4b4d07b7222dc9ac9315dd57fbd663daafea3ce611c5bc57cf83.m3u8
+#EXTINF:-1 group-title="优选",中视新闻
+http://50.7.238.114:8278/zhongshinews_twn/playlist.m3u8?tid=MAAA4459856044598560&ct=19193&tsum=1b7bdea69c00cd48e31f13442c75c376
+#EXTINF:-1 group-title="优选",台視新聞
+https://epg.pw/stream/a399e85fa5940ba0350181fdfa9e103f3556324a504c5cb5ef35c0c4f9a04c36.m3u8
+#EXTINF:-1 group-title="优选",台視新聞
+https://epg.pw/stream/7e38e8d94c527c78eb0b414d29e8100d0bf3f90d5c73ce799795fe3785675319.m3u8
+#EXTINF:-1 group-title="优选",民視新聞
+https://epg.pw/stream/357581cc08ace7ef32a04c9c53578fe9906e137989e1f5e0355395f7a3ae8e37.m3u8
+#EXTINF:-1 group-title="优选",台视新闻
+http://38.64.72.148/hls/modn/list/4013/playlist.m3u8
+#EXTINF:-1 group-title="优选",台视新闻 hd
+https://epg.pw/stream/323de3953f32eaf0c224d78f1db77be185fa7ce9245786b3bd95d462d86d08d8.m3u8
+#EXTINF:-1 group-title="优选",台視新聞
+https://epg.pw/stream/d3230731a96387dccb11e86bafb66b5715c55e8b3033cbf183d4972995cea362.m3u8
+#EXTINF:-1 group-title="优选",澳门卫视
+http://61.244.22.5/ch3/ch3.live/chunklist_w1228316132.m3u8
+#EXTINF:-1 group-title="优选",台視新聞
+https://epg.pw/stream/07420afeb8a2edf0654aac4b73fe562896504712677577e2929d4425986b3415.m3u8
+#EXTINF:-1 group-title="优选",民视新闻 hd
+https://epg.pw/stream/76f0ee00f9e59f698ff954d5f79bf2c7f5ecbc83a47381bb74906acd165bd48c.m3u8
+#EXTINF:-1 group-title="优选",华语电视3台
+http://38.64.72.148/hls/modn/list/4003/chunklist0.m3u8
+#EXTINF:-1 group-title="优选",新加坡国际
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+#EXTINF:-1 group-title="优选",民視新聞
+https://epg.pw/stream/75e14c76b6bf52ae5f96e83d07ea3b69008f6b017d18a395b6c6346ef60bcb27.m3u8
+#EXTINF:-1 group-title="优选",民視新聞
+https://epg.pw/stream/9e0c5226b50fcd68d592dc0ae62154c62a9fd50732329250ee0daf4879ccae49.m3u8
+#EXTINF:-1 group-title="优选",民视新闻 hd
+https://epg.pw/stream/6fa1566ea8689cbf43afb55f899dc5ee945e1caabde5bfc367cc510aa794d313.m3u8
+#EXTINF:-1 group-title="优选",台視新聞 HD
+http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
+#EXTINF:-1 group-title="优选",民视新闻 hd
+https://epg.pw/stream/b63bf1df7bf1e2c47a873d3987c2d59a08d8e4dfed1e197bce7e791eb64eb16e.m3u8
+#EXTINF:-1 group-title="优选",NHK 総合
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd01&isp=10&bind=0&uin=159413&playseek=0
+
 #EXTINF:-1 group-title="大陆",CCTV新闻1
 https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
 #EXTINF:-1 group-title="大陆",CCTV新闻2
 https://cctvwbndks.v.kcdnvip.com/cctvwbnd/cctv13_2/index.m3u8
 #EXTINF:-1 group-title="大陆",北京新闻
 https://live.funhillrm.com/5/sd/live.m3u8
-
 #EXTINF:-1 group-title="港澳",凤凰资讯台
 https://pull-l3-cny.douyincdn.com/live/YesLiveTV-63134406-69d7-436b-986a-9bd696d4e2cb.m3u8
 #EXTINF:-1 group-title="港澳",翡翠
@@ -25,7 +137,6 @@ https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/stream1/streamPlay
 https://dispatch.ulivetv.net/v/live/ccnuwp0ol8zk.m3u8?stream_id=ccnuwp0ol8zk&amp;timestamp=1685545781&amp;rand=6qhbs6wMTD&amp;uuid=9b647b3816b2a66a&amp;from=web&amp;sign=88dff7328f1b2324c14a1ebcb5f89ce4
 #EXTINF:-1 group-title="港澳",東森財經新聞
 https://pull-l3-cny.douyincdn.com/live/9ed40034f077a89f2581096db4400102.m3u8
-
 #EXTINF:-1 group-title="港澳",東森新聞
 https://everydaytv.top/live/youtube/44f0a706e86a999aa2716e24953a4834/playlist.m3u8
 #EXTINF:-1 group-title="港澳",寰宇新聞台
@@ -44,12 +155,10 @@ https://everydaytv.top/live/youtube/0e46bf767182466ff5f504bf78d8d4dc/playlist.m3
 https://everydaytv.top/live/youtube/c2dcfdb6f087609d9bf9abee815491d3/playlist.m3u8
 #EXTINF:-1 group-title="港澳",中天新聞
 https://everydaytv.top/live/youtube/fd1f715411eed110d07470b3cbddb43d/playlist.m3u8
-
 #EXTINF:-1 group-title="国外",ABC新闻直播
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index_45.m3u8
 #EXTINF:-1 group-title="国外",半岛电视台
 https://live-hls-web-aje.getaj.net/AJE/03.m3u8
-
 #EXTINF:-1 group-title="广播",VOA美国之音
 https://n0e.radiojar.com/7thwu53r92quv?rj-ttl=5&rj-tok=AAABiibHm1UAsO2Tu-PLUV5v9Q
 #EXTINF:-1 group-title="广播",法广新闻
